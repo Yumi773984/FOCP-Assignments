@@ -1,0 +1,18 @@
+yuri: hello
+Freya: Could you please clarify?
+yuri: coffee
+Freya: The campus coffee bar is open from 8 AM to 8 PM every day.
+yuri: help
+Freya: The SSD (Student Services Department) is available to assist you with any queries or issues. You can contact them via email at ssd@poppleton.edu or visit their office in Room 101.
+yuri: & c:/users/hp/appdata/local/programs/python/python312/python.exe c:/users/hp/onedrive/desktop/fods/project-chat/chatbot.py
+Freya: I'm here to help, ask me anything!
+yuri: how are you?
+Freya: I'm here to help, ask me anything!
+yuri: do you like coffee?
+Freya: The campus coffee bar is open from 8 AM to 8 PM every day.
+yuri: where is the library located?
+Freya: I'm here to help, ask me anything!
+yuri: where do i stuyd?
+Freya: Could you please clarify?
+help: help
+Freya: The SSD (Student Services Department) is available to assist you with any queries or issues. You can contact them via email at ssd@britishinternationalcollege.edu.np or visit the SSD.
